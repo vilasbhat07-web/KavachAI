@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# KAVACHA - Private, Air-Gapped Industrial AI Copilot
 
 KAVACHA is a mission-critical, private, air-gapped Industrial AI Copilot frontend dashboard designed for heavy industry, energy, and process manufacturing (turbomachinery, boilers, transformers, heat exchangers).
@@ -109,3 +110,6 @@ kavacha/
 ├── tsconfig.json
 └── tailwind.config.js
 ```
+=======
+"# KavachAI" 
+>>>>>>> ba4bb58871996cc6ee465ae25971ea61f4d3acd5
